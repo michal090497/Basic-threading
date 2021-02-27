@@ -1,0 +1,51 @@
+C:\Users\Kamil911\Desktop\fajnazabawa\Spinlock\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe.config
+C:\Users\Kamil911\Desktop\fajnazabawa\Spinlock\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.csprojResolveAssemblyReference.cache
+C:\Users\Kamil911\Desktop\fajnazabawa\Spinlock\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe
+C:\Users\Kamil911\Desktop\fajnazabawa\Spinlock\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.pdb
+C:\Users\Kamil911\Desktop\fajnazabawa\Spinlock\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.exe
+C:\Users\Kamil911\Desktop\fajnazabawa\Spinlock\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.pdb
+C:\Users\Kamil911\Desktop\fajnazabawa\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe.config
+C:\Users\Kamil911\Desktop\fajnazabawa\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.exe
+C:\Users\Kamil911\Desktop\fajnazabawa\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.pdb
+C:\Users\Kamil911\Desktop\fajnazabawa\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe
+C:\Users\Kamil911\Desktop\fajnazabawa\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.pdb
+C:\Users\Kamil911\Desktop\fajnazabawa\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.csprojResolveAssemblyReference.cache
+C:\Users\ksis\Desktop\fajnazabawa\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe.config
+C:\Users\ksis\Desktop\fajnazabawa\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.exe
+C:\Users\ksis\Desktop\fajnazabawa\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.pdb
+C:\Users\ksis\Desktop\fajnazabawa\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe
+C:\Users\ksis\Desktop\fajnazabawa\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.pdb
+C:\Users\ksis\Desktop\fajnazabawa\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.csprojResolveAssemblyReference.cache
+C:\Users\ksis\Desktop\fajnazabawa - Kopia\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe.config
+C:\Users\ksis\Desktop\fajnazabawa - Kopia\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.exe
+C:\Users\ksis\Desktop\fajnazabawa - Kopia\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.pdb
+C:\Users\ksis\Desktop\fajnazabawa - Kopia\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe
+C:\Users\ksis\Desktop\fajnazabawa - Kopia\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.pdb
+C:\Users\ksis\Desktop\fajnazabawa - Kopia\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.csprojResolveAssemblyReference.cache
+C:\Users\micha\OneDrive\Dokumenty\scrgun\fajnazabawa - Kopia\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe.config
+C:\Users\micha\OneDrive\Dokumenty\scrgun\fajnazabawa - Kopia\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe
+C:\Users\micha\OneDrive\Dokumenty\scrgun\fajnazabawa - Kopia\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.pdb
+C:\Users\micha\OneDrive\Dokumenty\scrgun\fajnazabawa - Kopia\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Dokumenty\scrgun\fajnazabawa - Kopia\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Dokumenty\scrgun\fajnazabawa - Kopia\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.exe
+C:\Users\micha\OneDrive\Dokumenty\scrgun\fajnazabawa - Kopia\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.pdb
+C:\Users\ksis\Desktop\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe.config
+C:\Users\ksis\Desktop\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.exe
+C:\Users\ksis\Desktop\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.pdb
+C:\Users\ksis\Desktop\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe
+C:\Users\ksis\Desktop\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.pdb
+C:\Users\ksis\Desktop\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.csprojResolveAssemblyReference.cache
+C:\Users\micha\OneDrive\Dokumenty\scr0606\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe.config
+C:\Users\micha\OneDrive\Dokumenty\scr0606\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe
+C:\Users\micha\OneDrive\Dokumenty\scr0606\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.pdb
+C:\Users\micha\OneDrive\Dokumenty\scr0606\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Dokumenty\scr0606\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Dokumenty\scr0606\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.exe
+C:\Users\micha\OneDrive\Dokumenty\scr0606\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.pdb
+C:\Users\micha\OneDrive\Dokumenty\scr0606 - Copy\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe.config
+C:\Users\micha\OneDrive\Dokumenty\scr0606 - Copy\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.exe
+C:\Users\micha\OneDrive\Dokumenty\scr0606 - Copy\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\bin\Debug\KliczkowskiSzubert.pdb
+C:\Users\micha\OneDrive\Dokumenty\scr0606 - Copy\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Dokumenty\scr0606 - Copy\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Dokumenty\scr0606 - Copy\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.exe
+C:\Users\micha\OneDrive\Dokumenty\scr0606 - Copy\projekt scr\Spinlock — kopia\KliczkowskiSzubert\KliczkowskiSzubert\obj\Debug\KliczkowskiSzubert.pdb
